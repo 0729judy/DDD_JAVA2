@@ -2,10 +2,12 @@ package org.example.domain.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.util.UUID;
 
 @Data
+@NoArgsConstructor
 @AllArgsConstructor
 public class PointType {
     private UUID typeId;

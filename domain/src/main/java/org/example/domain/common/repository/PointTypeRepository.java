@@ -1,6 +1,8 @@
 package org.example.domain.common.repository;
 
-import com.systex.springboot.demo1.domain.PointType;
+
+
+import org.example.domain.common.PointType;
 
 import java.util.List;
 import java.util.Optional;

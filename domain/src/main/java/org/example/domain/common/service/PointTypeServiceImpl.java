@@ -1,7 +1,8 @@
 package org.example.domain.common.service;
 
-import com.systex.springboot.demo1.domain.PointType;
-import com.systex.springboot.demo1.domain.common.repository.PointTypeRepository;
+
+import org.example.domain.common.PointType;
+import org.example.domain.common.repository.PointTypeRepository;
 
 import java.util.List;
 import java.util.UUID;
